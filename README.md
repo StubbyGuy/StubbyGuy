@@ -93,16 +93,16 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 ## 🚀 Notable Projects & Contributions
 
-- 🏆 NCL Cyber Skyline, Fall/Spring 2024
-- 🏆 NYU International Cybersecurity Competition (CSAW), Fall 2024 – 3rd Place Winner Individual, Project: “CSAW 2024 Cyber Policy Competition
+- 🧮 NCL Cyber Skyline, Fall/Spring 2024
+- 🧮 NYU International Cybersecurity Competition (CSAW), Fall 2024 – 3rd Place Winner Individual, Project: “CSAW 2024 Cyber Policy Competition
 Software Security and Liability” - $500 Award -  https://www.csaw.io/cyber-policy-competition 
-- 🏆 Northwestern University Wildhack 2025 – Project Link:  https://devpost.com/software/inview-d9tnhw 
-- 🏆 University of Illinois Chicago – Capture the Flame CTF 2025
-- 🏆 DePaul DaemonCon 2025
+- 🧮 Northwestern University Wildhack 2025 – Project Link:  https://devpost.com/software/inview-d9tnhw 
+- 🧮 University of Illinois Chicago – Capture the Flame CTF 2025
+- 🧮 DePaul DaemonCon 2025
 
 ## 🎨 Interests & Hobbies
 
--  ♟️ Chess, ✈️ Traveling, 📚 Music Production, Piano, Running, Video Games
+-  ♟️ Chess, ✈️ Traveling, 🎼 Music Production, 🎹 Piano, 🏃 Running, 🎮 Video Games
 
 </div>
 
