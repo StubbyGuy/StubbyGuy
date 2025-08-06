@@ -100,8 +100,6 @@ Software Security and Liability” - $500 Award -  https://www.csaw.io/cyber-pol
 - 🏆 University of Illinois Chicago – Capture the Flame CTF 2025
 - 🏆 DePaul DaemonCon 2025
 
-<div align="center">
-
 ## 🎨 Interests & Hobbies
 
 -  ♟️ Chess, ✈️ Traveling, 📚 Music Production, Piano, Running, Video Games
