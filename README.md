@@ -101,7 +101,9 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 -  ♟️ Chess, ✈️ Traveling, 📚 Music Production, Piano, Running, Video Games
 
+</div>
 
+---
 
 <div align="center">
 
