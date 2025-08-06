@@ -41,9 +41,10 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 ### 🎯 Key Highlights
 
 <div align="center">
+  
   ![Experience](https://img.shields.io/badge/Experience-XX_years-FF6B35?style=for-the-badge&logo=clock&logoColor=white)
   ![Education](https://img.shields.io/badge/Education-Your_Field-00A0E4?style=for-the-badge&logo=graduation-cap&logoColor=white)
-  <!-- Add more badges as needed -->
+  
 </div>
 
 - Main career achievements
@@ -55,27 +56,41 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 ## 🛠️ Tech Stack
 
 <div align="center">
+  
   ![Tech Stack](https://img.shields.io/badge/Tech_Stack-Comprehensive-FF6B35?style=for-the-badge&logo=code&logoColor=white)
+  
 </div>
 
 ### 💻 Programming Languages
+
 <div align="center">
+  
   ![Lang1](https://img.shields.io/badge/Lang1-Color?style=for-the-badge&logo=logo1&logoColor=white)
   ![Lang2](https://img.shields.io/badge/Lang2-Color?style=for-the-badge&logo=logo2&logoColor=white)
+  
 </div>
+
 **Programming Languages**: Python, Javascript, YAML, JSON, BASH
 
 ### 🗄️ Databases & Cloud
+
 <div align="center">
+  
   ![DB1](https://img.shields.io/badge/DB1-Color?style=for-the-badge&logo=logo1&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  
 </div>
+
 **Databases & Cloud**: AWS, Azure, MySQL
 
 ### 🛠️ Development Tools
+
 <div align="center">
+  
   ![Tool1](https://img.shields.io/badge/Tool1-Color?style=for-the-badge&logo=logo1&logoColor=white)
+  
 </div>
+
 **Development Tools**: Git, Github, VS Code, Cursor, Docker, Linux
 
 ### Professional Strengths
