@@ -3,14 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=FF6B35&center=true&vCenter=true&width=500&height=40&lines=Your+Role+1;Your+Role+2;Your+Role+3;Your+Tagline+Here" alt="Typing SVG" />
 </div>
 
-# 👋 [Your Name or Handle Here]
+# 👋 Eric Somogyi
 
 <div align="center">
   <!-- Social Links -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-  [![Website](https://img.shields.io/badge/Website-yourdomain.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourdomain.com)
-  [![Email](https://img.shields.io/badge/Email-your@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-  [![Blog](https://img.shields.io/badge/Blog-yourblog.com/blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com/blog)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsomogyi)
+  [![Website](https://img.shields.io/badge/Website-yourdomain.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](StubbyGuy.github.io )
+  [![Email](https://img.shields.io/badge/Email-your@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahdt@protonmail.com)
 </div>
 
 <div align="center">
@@ -28,10 +27,10 @@
 ## 🚀 About Me
 
 <div align="center">
-  > *"Your favorite quote or tagline goes here!"*
+  > *"Computers make me totally blank out." - Dalai Lama*
 </div>
 
-Short paragraph about who you are, your focus, and what excites you in tech/engineering.
+I'm a passionate entry level cybersecurity and cloud engineer based in the USA. 
 
 ### 🎯 Key Highlights
 
@@ -45,6 +44,7 @@ Short paragraph about who you are, your focus, and what excites you in tech/engi
 - What you’re currently studying or working on
 - Awards or recognitions
 - Areas of expertise
+- M.S. in Cybersecurity: Networking & Infrastructure
 
 ## 🛠️ Tech Stack
 
@@ -57,52 +57,25 @@ Short paragraph about who you are, your focus, and what excites you in tech/engi
   ![Lang1](https://img.shields.io/badge/Lang1-Color?style=for-the-badge&logo=logo1&logoColor=white)
   ![Lang2](https://img.shields.io/badge/Lang2-Color?style=for-the-badge&logo=logo2&logoColor=white)
 </div>
-**Programming Languages**: List here
-
-### 🌐 Web Development
-<div align="center">
-  ![Framework1](https://img.shields.io/badge/Framework1-Color?style=for-the-badge&logo=logo1&logoColor=white)
-</div>
-**Web Development**: List here
-
-### 📊 Data Science & Analytics
-<div align="center">
-  ![Tool1](https://img.shields.io/badge/Tool1-Color?style=for-the-badge&logo=logo1&logoColor=white)
-</div>
-**Data Science & Analytics**: List here
-
-### 🤖 AI/ML Frameworks
-<div align="center">
-  ![Framework1](https://img.shields.io/badge/Framework1-Color?style=for-the-badge&logo=logo1&logoColor=white)
-</div>
-**AI/ML Frameworks**: List here
+**Programming Languages**: Python, Javascript, YAML, JSON, BASH
 
 ### 🗄️ Databases & Cloud
 <div align="center">
   ![DB1](https://img.shields.io/badge/DB1-Color?style=for-the-badge&logo=logo1&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
-**Databases & Cloud**: List here
+**Databases & Cloud**: AWS, Azure, MySQL
 
 ### 🛠️ Development Tools
 <div align="center">
   ![Tool1](https://img.shields.io/badge/Tool1-Color?style=for-the-badge&logo=logo1&logoColor=white)
 </div>
-**Development Tools**: List here
-
-### 🏗️ Engineering Software
-<div align="center">
-  ![Software1](https://img.shields.io/badge/Software1-Color?style=for-the-badge&logo=logo1&logoColor=white)
-</div>
-**Engineering Software**: List here
+**Development Tools**: Git, Github, VS Code, Cursor, Docker, Linux
 
 ### Professional Strengths
 - Bullet point strengths (e.g., Data Analysis, Project Management, Communication, etc.)
 
 ## 🌟 Professional Experience
-
-### 🔥 Current Position
-**[Your Job Title]** at [Company Name] -- [Location]  
-- Main responsibilities and achievements
 
 ### 💼 Previous Experience
 **[Previous Job Title]** at [Previous Company] -- [Location/Remote]  
@@ -110,40 +83,19 @@ Short paragraph about who you are, your focus, and what excites you in tech/engi
 
 ## 📚 Education
 
-- 🎓 **[Degree]**, [School Name]  
+- 🎓 **Cybersecurity: Networking & Infrastructure**, [DePaul University]  
+  - Awards, focus, thesis, or highlights
+ 
+- 🎓 **Audio Arts & Acoustics**, [Columbia College Chicago]  
   - Awards, focus, thesis, or highlights
 
 ## 🚀 Notable Projects & Contributions
 
-### 🎨 Open Source & Tools
-- **[Project Name](link-to-repo-or-app)** - Short description
 
-### 🔬 Research & Innovation
-- **Project/Research Name** - Short description
-
-## 🤝 Volunteering & Community
-
-- Role, Organization, what you did, impact
 
 ## 🎨 Interests & Hobbies
 
-- List your hobbies/interests (chess, sports, music, travel, etc.)
-
-## 🌐 Languages
-
-- 🇬🇧 English (Proficiency)
-- 🇫🇷 French (Proficiency)
-- 🇪🇸 Spanish (Proficiency)
-<!-- Add more as needed -->
-
-## 📝 Latest Blog Posts
-
-<div align="center">
-  ![Blog](https://img.shields.io/badge/Blog-Technical_Writing-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-</div>
-
-- [**Blog Title 1**](link-to-blog-post) - Short description
-- [**Blog Title 2**](link-to-blog-post) - Short description
+-  ♟️ Chess, ✈️ Traveling, 📚 Music Production, Piano, Running, Video Games
 
 ---
 
@@ -164,10 +116,9 @@ Short paragraph about who you are, your focus, and what excites you in tech/engi
 
 <div align="center">
   ### 🚀 Let's Connect!
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-  [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsomogyi)
+  [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahdt@protonmail.com)
   [![Website](https://img.shields.io/badge/Website-Visit_Now-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourdomain.com)
-  [![Blog](https://img.shields.io/badge/Blog-Read_More-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com/blog)
 
   ---
   *"Your closing message or motto goes here!"* 🚀
