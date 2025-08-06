@@ -85,11 +85,11 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 ## 📚 Education
 
-- 🎓 **Cybersecurity: Networking & Infrastructure**, [DePaul University] -- (2023 - 2025) 
-  - Relevant Coursework: Enterprise Security Infrastructure, Host-Based Security, Advanced Cyber Attack Response and Defense, Security Testing, Networking for IoT, IT Risk Management, Network Security
+- 🎓 **Cybersecurity: Networking & Infrastructure**, DePaul University -- (2023 - 2025) 
+  - 🏆 Relevant Coursework: Enterprise Security Infrastructure, Host-Based Security, Advanced Cyber Attack Response and Defense, Security Testing, Networking for IoT, IT Risk Management, Network Security
  
-- 🎓 **Audio Arts & Acoustics**, [Columbia College Chicago] -- (2012 - 2015)
-  - Minor: Marketing Communications
+- 🎓 **Audio Arts & Acoustics**, Columbia College Chicago -- (2012 - 2015)
+  - 🏆 Minor: Marketing Communications
 
 ## 🚀 Notable Projects & Contributions
 
