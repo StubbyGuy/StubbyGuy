@@ -99,21 +99,6 @@ I'm a passionate entry level cybersecurity and cloud engineer based in the USA.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-Activity-FF6B35?style=for-the-badge&logo=github&logoColor=white)
-</div>
-
-<!-- Example stats widgets, update 'StubbyGuy' as needed -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StubbyGuy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StubbyGuy&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StubbyGuy&theme=radical&hide_border=true&layout=donut&langs_count=6" alt="Programming Languages" />
-</div>
-
----
-
 <div align="center">
   ### 🚀 Let's Connect!
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsomogyi)
