@@ -27,11 +27,12 @@
 ## 🚀 About Me
 
 <div align="center">
-  *"Computers make me totally blank out." - Dalai Lama*
+  
+  > *"Computers make me totally blank out. - Dalai Lama"*
   
 </div>
 
-I'm a passionate entry level cybersecurity and cloud engineer based in the USA. 
+I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in the USA. 
 
 ### 🎯 Key Highlights
 
