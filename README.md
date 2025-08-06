@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Professional Headline -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=FF6B35&center=true&vCenter=true&width=500&height=40&lines=Your+Role+1;Your+Role+2;Your+Role+3;Your+Tagline+Here" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=FF6B35&center=true&vCenter=true&width=500&height=40&lines=Security+Engineer;Cloud+Engineer;SOC+Anaylst" alt="Typing SVG" />
 </div>
 
 # 👋 Eric Somogyi
