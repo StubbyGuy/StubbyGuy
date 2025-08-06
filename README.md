@@ -6,22 +6,26 @@
 # 👋 Eric Somogyi
 
 <div align="center">
-  <!-- Social Links -->
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsomogyi)
-  [![Website](https://img.shields.io/badge/Website-yourdomain.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](StubbyGuy.github.io )
+  [![Website](https://img.shields.io/badge/Website-yourdomain.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.StubbyGuy.github.io)
   [![Email](https://img.shields.io/badge/Email-your@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahdt@protonmail.com)
+  
 </div>
 
 <div align="center">
-  <!-- Location Badge -->
-  <img src="https://img.shields.io/badge/Location-YourCity,_YourCountry-0077B5?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location" />
+  <!-- <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-00A0E4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" /> -->
+  <img src="https://img.shields.io/badge/Location-Chicago,_USA-0077B5?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location" />
+  <!-- <img src="https://img.shields.io/badge/Open_to_Work-Yes-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" /> -->
 </div>
 
 <div align="center">
-  <!-- Skills Badges -->
-  ![Skill 1](https://img.shields.io/badge/Skill_1-Color?style=for-the-badge&logo=logo1&logoColor=white)
-  ![Skill 2](https://img.shields.io/badge/Skill_2-Color?style=for-the-badge&logo=logo2&logoColor=white)
-  <!-- Add or remove skills as needed -->
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Structural Engineering](https://img.shields.io/badge/Structural_Engineering-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white)
+  ![Web Development](https://img.shields.io/badge/Web_Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  
 </div>
 
 ## 🚀 About Me
