@@ -94,9 +94,16 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 ## 🚀 Notable Projects & Contributions
 
 
+<div align="center">
+
+
 ## 🎨 Interests & Hobbies
 
 -  ♟️ Chess, ✈️ Traveling, 📚 Music Production, Piano, Running, Video Games
+
+
+
+<div align="center">
 
 ### 🚀 Let's Connect!
   
@@ -106,7 +113,7 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
   
   ---
   
-  *"Your closing message or motto goes here!"* 🚀
+  *"Computers make me totally blank out. - Dalai Lama"* 🚀
   
   ![Profile Views](https://img.shields.io/badge/Thanks_for_visiting!-⭐-FFD700?style=for-the-badge&logo=star&logoColor=black)
   
