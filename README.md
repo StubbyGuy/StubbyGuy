@@ -102,7 +102,7 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsomogyi)
   [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahdt@protonmail.com)
-  [![Website](https://img.shields.io/badge/Website-Visit_Now-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://github.StubbyGuy.github.io](https://stubbyguy.github.io/)
+  [![Website](https://img.shields.io/badge/Website-Visit_Now-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stubbyguy.github.io/)
   
   ---
   
