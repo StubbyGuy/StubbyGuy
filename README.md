@@ -75,39 +75,39 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 **Development Tools**: Git, Github, VS Code, Cursor, Docker, Linux
 
 ### Professional Strengths
-- Bullet point strengths (e.g., Data Analysis, Project Management, Communication, etc.)
 
-## 🌟 Professional Experience
-
-### 💼 Previous Experience
-**[Previous Job Title]** at [Previous Company] -- [Location/Remote]  
-- Main responsibilities and achievements
+<div align="center">
+  
+  ![Current Role](https://img.shields.io/badge/Current_Role-AI_Intern-00A0E4?style=for-the-badge&logo=robot&logoColor=white)
+  ![Experience](https://img.shields.io/badge/Experience-14%2B_years-FF6B35?style=for-the-badge&logo=briefcase&logoColor=white)
+  
+</div>
 
 ## 📚 Education
 
-- 🎓 **Cybersecurity: Networking & Infrastructure**, [DePaul University]  
-  - Awards, focus, thesis, or highlights
+- 🎓 **Cybersecurity: Networking & Infrastructure**, [DePaul University] -- (2023 - 2025) 
+  - Relevant Coursework: Enterprise Security Infrastructure, Host-Based Security, Advanced Cyber Attack Response and Defense, Security Testing, Networking for IoT, IT Risk Management, Network Security
  
-- 🎓 **Audio Arts & Acoustics**, [Columbia College Chicago]  
-  - Awards, focus, thesis, or highlights
+- 🎓 **Audio Arts & Acoustics**, [Columbia College Chicago] -- (2012 - 2015)
+  - Minor: Marketing Communications
 
 ## 🚀 Notable Projects & Contributions
-
 
 
 ## 🎨 Interests & Hobbies
 
 -  ♟️ Chess, ✈️ Traveling, 📚 Music Production, Piano, Running, Video Games
 
----
-
-<div align="center">
-  ### 🚀 Let's Connect!
+### 🚀 Let's Connect!
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsomogyi)
   [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahdt@protonmail.com)
   [![Website](https://img.shields.io/badge/Website-Visit_Now-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourdomain.com)
-
+  
   ---
+  
   *"Your closing message or motto goes here!"* 🚀
+  
   ![Profile Views](https://img.shields.io/badge/Thanks_for_visiting!-⭐-FFD700?style=for-the-badge&logo=star&logoColor=black)
+  
 </div>
