@@ -66,17 +66,15 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/Lang1-Color?style=for-the-badge&logo=logo1&logoColor=white)
-  ![Javascript](https://img.shields.io/badge/Lang2-Color?style=for-the-badge&logo=logo2&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![JSON](https://img.shields.io/badge/JSON-Scripting-blue?style=for-the-badge&logo=json)
+  ![YAML](https://img.shields.io/badge/YAML-Configuration-151515?style=for-the-badge&logo=yaml&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
   
 </div>
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Programming Languages**: Python, Javascript, YAML, JSON, BASH
+**Programming Languages**: Python, Javascript, JSON, YAML, BASH
 
 ### 🗄️ Databases & Cloud
 
