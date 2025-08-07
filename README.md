@@ -54,10 +54,6 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  
-  ![Tech Stack](https://img.shields.io/badge/Tech_Stack-Comprehensive-FF6B35?style=for-the-badge&logo=code&logoColor=white)
-  
 </div>
 
 ### 💻 Programming Languages
