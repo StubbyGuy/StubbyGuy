@@ -112,6 +112,9 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 **Development Tools**: Git, Github, VS Code, Cursor, Docker, Linux
 
+---
+</div>
+
 ### Professional Strengths
 
 <div align="center">
