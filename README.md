@@ -9,7 +9,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric_Somogyi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsomogyi)
   [![Website](https://img.shields.io/badge/Website-StubbyGuy.github.io-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://StubbyGuy.github.io)
-  [![Email](https://img.shields.io/badge/Email-mail@-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thecronjob@pm.me)
+  [![Email](https://img.shields.io/badge/Email-mail@thecronjob@pm.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thecronjob@pm.me)
   [![Resume](https://img.shields.io/badge/Resume-Eric-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/StubbyGuy/Resume/blob/main/EricSomogyi_Resume.pdf)
   
 </div>
