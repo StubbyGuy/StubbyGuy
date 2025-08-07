@@ -114,7 +114,6 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 
 ## 🏋 Professional Strengths
----
 <div align="center">
 
 </div>
