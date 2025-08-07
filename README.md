@@ -43,8 +43,8 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 <div align="center">
   
-  ![Experience](https://img.shields.io/badge/Experience-XX_years-FF6B35?style=for-the-badge&logo=clock&logoColor=white)
-  ![Education](https://img.shields.io/badge/Education-Your_Field-00A0E4?style=for-the-badge&logo=graduation-cap&logoColor=white)
+  ![Experience](https://img.shields.io/badge/Experience-3+_years-FF6B35?style=for-the-badge&logo=clock&logoColor=white)
+  ![Education](https://img.shields.io/badge/Education-Cybersecurity_MS_Graduate-00A0E4?style=for-the-badge&logo=graduation-cap&logoColor=white)
   
 </div>
 
