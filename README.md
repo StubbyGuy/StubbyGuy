@@ -48,9 +48,11 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 - Main career achievements
 - What you’re currently studying or working on
-- Awards or recognitions
-- Areas of expertise
-- M.S. in Cybersecurity: Networking & Infrastructure
+- 🏆 Won 3rd Place at New York University Cyber Competition in Cyber Policy Category in Fall Quarter 2024.
+- 📐 Also interested in Site-Reliability Engineer, DevOps Engineer, Systems Administrator, IAM Administrator
+- 🌱 Always learning—AI, Automation frameworks, Oauth security techniques.
+- 🎓 M.S. in Cybersecurity: Networking & Infrastructure
+- 🌍 Dedicated to creating future-forward solutions
 
 ## 🛠️ Tech Stack
 
@@ -62,24 +64,40 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Ruby](https://img.shields.io/badge/Ruby-Programming-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
   ![JSON](https://img.shields.io/badge/JSON-Scripting-blue?style=for-the-badge&logo=json)
   ![YAML](https://img.shields.io/badge/YAML-Configuration-151515?style=for-the-badge&logo=yaml&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
   
 </div>
 
-**Programming Languages**: Python, Javascript, JSON, YAML, BASH
+**Programming Languages**: Python, Javascript, Ruby, JSON, YAML, BASH
 
 ### 🗄️ Databases & Cloud
 
 <div align="center">
   
-  ![DB1](https://img.shields.io/badge/DB1-Color?style=for-the-badge&logo=logo1&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AZURE](https://img.shields.io/badge/Azure-Cloud_Platform-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   
 </div>
 
 **Databases & Cloud**: AWS, Azure, MySQL
+
+### 🏗️ Automation & Infrastructure as Code
+
+<div align="center">
+
+  ![ANSIBLE](https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+  ![TERRAFORM](https://img.shields.io/badge/Terraform-Infrastructure_as_Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=whit)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-Container_Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![JIRA](https://img.shields.io/badge/Jira-Project_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+  
+  </div>
+
+**Automation Software**: Ansible, Terraform, Jenkins, Kubernetes, JIRA
 
 ### 🛠️ Development Tools
 
@@ -100,13 +118,11 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 <div align="center">
   
-- 🔍 
-- 🕒 Time and Workflow Optimization - Reducing engineering time by up to 75% through automation
-- 🏢 Project Management & Leadership - Managing complex projects up to 20,000 m²
-- 🎯 Strategic Planning - Developing innovation strategies and investment proposals
-- 🤝 Collaboration & Team Building - Leading cross-functional R&D teams
-- 🌍 International Experience - From Chile to Canada, adapting to diverse work environments
-  
+- 🔍 **Site Reliability & Orchestration**: Entry-level skills in designing and implementing scalable, resilient systems using Kubernetes for container orchestration ensuring high availability across global environments.
+- 🕒 **DevOps & Automation**: Reduced engineering workflows by up to 75% through CI/CD pipelines, infrastructure-as-code (IaC), and tools like Terraform driving efficiency and reliability in development cycles.
+- 🏢 **Zero-Trust Security**: Proficient in applying zero-trust architecture principles to secure cloud-native applications, leveraging Kubernetes RBAC, network policies, and secrets management for robust, compliant systems.
+- 🤝 **Collaboration & Team Building** - Passionate about fostering cross-functional teamwork, mentoring peers, and building reliable, maintainable solutions through agile practices and open communication.
+
 </div>
 
 ## 📚 Education
