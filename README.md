@@ -8,8 +8,9 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric_Somogyi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsomogyi)
-  [![Website](https://img.shields.io/badge/Website-StubbyGuy.github.io-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.StubbyGuy.github.io)
+  [![Website](https://img.shields.io/badge/Website-StubbyGuy.github.io-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://StubbyGuy.github.io)
   [![Email](https://img.shields.io/badge/Email-mail@-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:test@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-Eric-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/StubbyGuy/Resume/blob/main/EricSomogyi_Resume.pdf)
   
 </div>
 
@@ -132,7 +133,7 @@ Software Security and Liability” - $500 Award -  https://www.csaw.io/cyber-pol
 ### 🚀 Let's Connect!
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsomogyi)
-  [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahdt@protonmail.com)
+  [![Email](https://img.shields.io/badge/Email-Right_Click_Copy-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thecronjob@pm.me)
   [![Website](https://img.shields.io/badge/Website-Visit_Now-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stubbyguy.github.io/)
   
   ---
