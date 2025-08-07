@@ -9,7 +9,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric_Somogyi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsomogyi)
   [![Website](https://img.shields.io/badge/Website-StubbyGuy.github.io-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://StubbyGuy.github.io)
-  [![Email](https://img.shields.io/badge/Email-thecronjob@pm.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thecronjob@pm.me)
+  [![Email](https://img.shields.io/badge/Email-Right_Click_Copy-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thecronjob@pm.me)
   [![Resume](https://img.shields.io/badge/Resume-Eric-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/StubbyGuy/Resume/blob/main/EricSomogyi_Resume.pdf)
   
 </div>
@@ -63,8 +63,8 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Ruby](https://img.shields.io/badge/Ruby-Programming-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-  ![HCL](https://img.shields.io/badge/Language-HCL-4A90E2?logo=terraform&logoColor=white)
-  ![JSON](https://img.shields.io/badge/JSON-Scripting-blue?style=for-the-badge&logo=json)
+  ![HCL](https://img.shields.io/badge/HCL-Programming-4A90E2?logo=terraform&logoColor=white)
+  ![JSON](https://img.shields.io/badge/JSON-Configuration-blue?style=for-the-badge&logo=json)
   ![YAML](https://img.shields.io/badge/YAML-Configuration-151515?style=for-the-badge&logo=yaml&logoColor=white)
   ![BASH](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
   
