@@ -100,14 +100,12 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 <div align="center">
   
-🔍 Data Analysis & Visualization - Transforming complex data into actionable insights
-🕒 Time and Workflow Optimization - Reducing engineering time by up to 75% through automation
-🏢 Project Management & Leadership - Managing complex projects up to 20,000 m²
-💬 Effective Communication - Multilingual (English, Spanish, French) for international collaboration
-🎯 Strategic Planning - Developing innovation strategies and investment proposals
-🤝 Collaboration & Team Building - Leading cross-functional R&D teams
-🔬 Research & Development - Bridging traditional engineering with modern technology
-🌍 International Experience - From Chile to Canada, adapting to diverse work environments
+- 🔍 
+- 🕒 Time and Workflow Optimization - Reducing engineering time by up to 75% through automation
+- 🏢 Project Management & Leadership - Managing complex projects up to 20,000 m²
+- 🎯 Strategic Planning - Developing innovation strategies and investment proposals
+- 🤝 Collaboration & Team Building - Leading cross-functional R&D teams
+- 🌍 International Experience - From Chile to Canada, adapting to diverse work environments
   
 </div>
 
