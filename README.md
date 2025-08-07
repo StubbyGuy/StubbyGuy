@@ -66,10 +66,15 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 <div align="center">
   
-  ![Lang1](https://img.shields.io/badge/Lang1-Color?style=for-the-badge&logo=logo1&logoColor=white)
-  ![Lang2](https://img.shields.io/badge/Lang2-Color?style=for-the-badge&logo=logo2&logoColor=white)
+  ![Python](https://img.shields.io/badge/Lang1-Color?style=for-the-badge&logo=logo1&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/Lang2-Color?style=for-the-badge&logo=logo2&logoColor=white)
+  ![JSON](https://img.shields.io/badge/JSON-Scripting-blue?style=for-the-badge&logo=json)
   
 </div>
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Programming Languages**: Python, Javascript, YAML, JSON, BASH
 
