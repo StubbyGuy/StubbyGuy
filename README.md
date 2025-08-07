@@ -63,14 +63,14 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Ruby](https://img.shields.io/badge/Ruby-Programming-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-  ![HCL](https://img.shields.io/badge/HCL-Programming-4A90E2?logo=terraform&logoColor=white)
   ![JSON](https://img.shields.io/badge/JSON-Configuration-blue?style=for-the-badge&logo=json)
   ![YAML](https://img.shields.io/badge/YAML-Configuration-151515?style=for-the-badge&logo=yaml&logoColor=white)
   ![BASH](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![HCL](https://img.shields.io/badge/HCL-Programming-4A90E2?logo=terraform&logoColor=white)
   
 </div>
 
-**Programming Languages**: Python, Javascript, Ruby, HCL, JSON, YAML, BASH
+- **Programming Languages**: Python, Javascript, Ruby, JSON, YAML, BASH, HCL
 
 ### 🗄️ Databases & Cloud
 
@@ -82,7 +82,7 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
   
 </div>
 
-**Databases & Cloud**: AWS, Azure, MySQL
+- **Databases & Cloud**: AWS, Azure, MySQL
 
 ### 🏗️ Automation & Infrastructure as Code
 
@@ -96,7 +96,7 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
   
   </div>
 
-**Automation Software**: Ansible, Terraform, Jenkins, Kubernetes, JIRA
+- **Technologies**: Ansible, Terraform, Jenkins, Kubernetes, JIRA
 
 ### 🛠️ Development Tools
 
@@ -111,7 +111,7 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
   
 </div>
 
-**Development Tools**: Git, Github, VS Code, Cursor, Docker, Linux
+- **Development Tools**: Git, Github, VS Code, Cursor, Docker, Linux
 
 
 ## 🏋 Professional Strengths
