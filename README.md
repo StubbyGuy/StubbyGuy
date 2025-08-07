@@ -18,7 +18,7 @@
   <!-- <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-00A0E4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" /> -->
   <img src="https://img.shields.io/badge/Location-Chicago,_USA-0077B5?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location" />
   <!-- <img src="https://img.shields.io/badge/Open_to_Work-Yes-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" /> -->
-</div>
+</
 
 <div align="center">
   
@@ -31,11 +31,11 @@
 
 <div align="center">
   
-  > *"Computers make me totally blank out. - Dalai Lama"*
+  *"Computers make me totally blank out. - Dalai Lama"*
   
 </div>
 
-I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in the USA. 
+ - I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in the USA. 
 
 ### 🎯 Key Highlights
 
