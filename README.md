@@ -24,7 +24,7 @@
   
   ![Ruby](https://img.shields.io/badge/Ruby-3776AB?style=for-the-badge&logo=ruby&logoColor=white)
   ![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Structural Engineering](https://img.shields.io/badge/Structural_Engineering-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white)
+  ![Entry-Level_Security_Engineer](https://img.shields.io/badge/Entry_Level_Security_Engineer-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white)
   ![Web Development](https://img.shields.io/badge/Web_Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   
 </div>
