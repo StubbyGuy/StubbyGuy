@@ -63,13 +63,14 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Ruby](https://img.shields.io/badge/Ruby-Programming-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+  ![HCL](https://img.shields.io/badge/Language-HCL-4A90E2?logo=terraform&logoColor=white)
   ![JSON](https://img.shields.io/badge/JSON-Scripting-blue?style=for-the-badge&logo=json)
   ![YAML](https://img.shields.io/badge/YAML-Configuration-151515?style=for-the-badge&logo=yaml&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![BASH](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
   
 </div>
 
-**Programming Languages**: Python, Javascript, Ruby, JSON, YAML, BASH
+**Programming Languages**: Python, Javascript, Ruby, HCL, JSON, YAML, BASH
 
 ### 🗄️ Databases & Cloud
 
