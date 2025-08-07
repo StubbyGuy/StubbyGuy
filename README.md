@@ -91,7 +91,12 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 <div align="center">
   
-  ![Tool1](https://img.shields.io/badge/Tool1-Color?style=for-the-badge&logo=logo1&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Cursor](https://img.shields.io/badge/Cursor-AI_Code_Editor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-Expert_User_2004-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
 </div>
 
@@ -101,8 +106,14 @@ I'm a passionate entry level **Security Engineer**, **Cloud Engineer**, based in
 
 <div align="center">
   
-  ![Current Role](https://img.shields.io/badge/Current_Role-AI_Intern-00A0E4?style=for-the-badge&logo=robot&logoColor=white)
-  ![Experience](https://img.shields.io/badge/Experience-14%2B_years-FF6B35?style=for-the-badge&logo=briefcase&logoColor=white)
+🔍 Data Analysis & Visualization - Transforming complex data into actionable insights
+🕒 Time and Workflow Optimization - Reducing engineering time by up to 75% through automation
+🏢 Project Management & Leadership - Managing complex projects up to 20,000 m²
+💬 Effective Communication - Multilingual (English, Spanish, French) for international collaboration
+🎯 Strategic Planning - Developing innovation strategies and investment proposals
+🤝 Collaboration & Team Building - Leading cross-functional R&D teams
+🔬 Research & Development - Bridging traditional engineering with modern technology
+🌍 International Experience - From Chile to Canada, adapting to diverse work environments
   
 </div>
 
@@ -122,6 +133,12 @@ Software Security and Liability” - $500 Award -  https://www.csaw.io/cyber-pol
 - 🧮  Northwestern University Wildhacks, Spring 2025 – Project Link:  https://devpost.com/software/inview-d9tnhw 
 - 🧮  University of Illinois Chicago – Capture the Flame CTF, Spring 2025, https://wicysuic.github.io/CTF/
 - 🧮  DePaul DaemonCon, Spring 2025, https://daemoncon.com/
+
+</div>
+
+## 🤝 Volunteering & Community
+
+- 🕍 DePaul University Soup Kitchen Volunteer 2025 - present
 
 ## 🎨 Interests & Hobbies
 
