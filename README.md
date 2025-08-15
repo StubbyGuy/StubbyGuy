@@ -119,8 +119,6 @@
 
 </div>
   
-- 🔍 **Site Reliability & Orchestration**: Entry-level skills in designing and implementing scalable, resilient systems using Kubernetes for container orchestration ensuring high availability across global environments.
-- 🕒 **DevOps & Automation**: Reduced engineering workflows by up to 75% through CI/CD pipelines, infrastructure-as-code (IaC), and tools like Terraform driving efficiency and reliability in development cycles.
 - 🏢 **Zero-Trust Security**: Proficient in applying zero-trust architecture principles to secure cloud-native applications, leveraging Kubernetes RBAC, network policies, and secrets management for robust, compliant systems.
 - 🤝 **Collaboration & Team Building** - Passionate about fostering cross-functional teamwork, mentoring peers, and building reliable, maintainable solutions through agile practices and open communication.
 
@@ -129,7 +127,7 @@
 - 🎓 **MS - Cybersecurity: Networking & Infrastructure**, DePaul University, Chicago -- (2023 - 2025) 
   - 🏆 Relevant Coursework: Enterprise Security Infrastructure, Host-Based Security, Advanced Cyber Attack Response and Defense, Security Testing, Networking for IoT, IT Risk Management, Network Security
  
-- 🎓 **BA - Audio Arts & Acoustics**, Columbia College Chicago -- (2012 - 2015)
+- 🎓 **BA - Audio Arts & Acoustics**, Columbia College Chicago -- (2012 - 2014)
   - 🏆 Minor: Marketing Communications
 
 ## 🚀 Notable Projects & Contributions
