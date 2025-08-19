@@ -127,7 +127,7 @@
 - 🎓 **MS - Cybersecurity: Networking & Infrastructure**, DePaul University, Chicago -- (2023 - 2025) 
   - 🏆 Relevant Coursework: Enterprise Security Infrastructure, Host-Based Security, Advanced Cyber Attack Response and Defense, Security Testing, Networking for IoT, IT Risk Management, Network Security
  
-- 🎓 **BA - Audio Arts & Acoustics**, Columbia College Chicago -- (2012 - 2014)
+- 🎓 **BA - Mulit-visual Media**, Columbia College Chicago -- (2012 - 2014)
   - 🏆 Minor: Marketing Communications
 
 ## 🚀 Notable Projects & Contributions
